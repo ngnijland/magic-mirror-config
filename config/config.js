@@ -50,8 +50,8 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "Amsterdam,Netherlands",
-        locationID: "2759794",
+				location: "Opmeer, Netherlands",
+        locationID: "2749286",
 				appid: "{{ MAGIC_MIRROR_OPEN_WEATHER_API_KEY }}"
 			}
 		},
@@ -60,8 +60,8 @@ var config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
-				location: "Amsterdam, Netherlands",
-        locationID: "2759794",
+				location: "Opmeer, Netherlands",
+        locationID: "2749286",
 				appid: "{{ MAGIC_MIRROR_OPEN_WEATHER_API_KEY }}"
 			}
 		},
