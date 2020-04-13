@@ -52,7 +52,7 @@ var config = {
 			config: {
 				location: "Opmeer, Netherlands",
         locationID: "2749286",
-				appid: "{{ MAGIC_MIRROR_OPEN_WEATHER_API_KEY }}"
+				appid: "__MAGIC_MIRROR_OPEN_WEATHER_API_KEY__"
 			}
 		},
 		{
@@ -62,7 +62,7 @@ var config = {
 			config: {
 				location: "Opmeer, Netherlands",
         locationID: "2749286",
-				appid: "{{ MAGIC_MIRROR_OPEN_WEATHER_API_KEY }}"
+				appid: "__MAGIC_MIRROR_OPEN_WEATHER_API_KEY__"
 			}
 		},
 	]
